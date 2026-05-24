@@ -1,0 +1,18 @@
+D:\wamp\www\leolhotelorentz\AP TRIATHLON\DAL\bin\Debug\DAL.dll
+D:\wamp\www\leolhotelorentz\AP TRIATHLON\DAL\bin\Debug\DAL.pdb
+D:\wamp\www\leolhotelorentz\AP TRIATHLON\DAL\bin\Debug\BLL.dll
+D:\wamp\www\leolhotelorentz\AP TRIATHLON\DAL\bin\Debug\BLL.pdb
+D:\wamp\www\leolhotelorentz\AP TRIATHLON\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\wamp\www\leolhotelorentz\AP TRIATHLON\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\wamp\www\leolhotelorentz\AP TRIATHLON\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\wamp\www\leolhotelorentz\AP TRIATHLON\DAL\obj\Debug\DAL.dll
+D:\wamp\www\leolhotelorentz\AP TRIATHLON\DAL\obj\Debug\DAL.pdb
+D:\Fiche E6\AP TRIATHLON\DAL\bin\Debug\DAL.dll
+D:\Fiche E6\AP TRIATHLON\DAL\bin\Debug\DAL.pdb
+D:\Fiche E6\AP TRIATHLON\DAL\bin\Debug\BLL.dll
+D:\Fiche E6\AP TRIATHLON\DAL\bin\Debug\BLL.pdb
+D:\Fiche E6\AP TRIATHLON\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Fiche E6\AP TRIATHLON\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Fiche E6\AP TRIATHLON\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Fiche E6\AP TRIATHLON\DAL\obj\Debug\DAL.dll
+D:\Fiche E6\AP TRIATHLON\DAL\obj\Debug\DAL.pdb
